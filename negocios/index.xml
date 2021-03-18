@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Negocios on Notas de economía y negocios</title>
+    <link>https://NotasEN.github.io/negocios/</link>
+    <description>Recent content in Negocios on Notas de economía y negocios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Mar 2021 12:03:59 -0300</lastBuildDate><atom:link href="https://NotasEN.github.io/negocios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primer Post</title>
+      <link>https://NotasEN.github.io/negocios/primer-post/</link>
+      <pubDate>Wed, 17 Mar 2021 12:03:59 -0300</pubDate>
+      
+      <guid>https://NotasEN.github.io/negocios/primer-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
